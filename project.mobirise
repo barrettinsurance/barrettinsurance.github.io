@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -362,6 +362,9 @@
             },
             ".content-slider-wrap": {
               "width": "(@sliderWSize * 1%)"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_name": "slider2",
@@ -381,72 +384,76 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/c852bed4e51811c7e1248c7f5ad9739e-940x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "You need a unique, personalize approach to purchasing insurance.",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/9e8835f1a47c989df01472efca0b71f4-940x480.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
+                "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
+                "title": "Barrett Insurance will give you the<br>attention that you deserve.&nbsp;",
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/34a44893c690c5103bac99d7d8201fd2-940x480.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
+                "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
+                "title": "No matter what your insurance needs...",
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/7b30afcfec5d391ef4f33233f986e3cb-940x480.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/c852bed4e51811c7e1248c7f5ad9739e-940x480.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
+                "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
+                "title": "Barrett Insurance is here to help you<br>protect your dreams!",
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               }
             ]
           },
