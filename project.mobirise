@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -604,7 +604,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             }
           },
@@ -3449,7 +3449,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             }
           },
@@ -3570,7 +3570,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             }
           },
@@ -3635,7 +3635,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ea416\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><span style=\"font-size: 1rem;\">AAA&nbsp;</span><br></li><li>American Modern\n</li><li>Blue Cross Blue Shield\n</li><li>Citizens</li><li>CNA/Western Surety\n</li><li>Foremost\n</li><li>Frankenmuth\n</li><li>Hagerty\n</li><li>Humana\n</li><li>Humana Medicare\n</li><li>Illinois Mutual\n</li><li>Markel First Comp\n</li><li>Markel Specialty Programs\n</li><li>Mutual of Omaha\n</li><li>Pioneer State Mutual\n</li><li>Priority Health\n</li><li>Progressive\n</li><li>Safeco\n</li><li>&nbsp;United Health Care\n</li><li>West Bend Mutal Insurance</li><li><span style=\"font-size: 1rem;\">&nbsp;Liberty Mutual &nbsp;&nbsp;</span></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ea416\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><span style=\"font-size: 1rem;\">AAA&nbsp;</span><br></li><li>American Modern\n</li><li>Blue Cross Blue Shield\n</li><li>Citizens</li><li>CNA/Western Surety\n</li><li>Foremost\n</li><li>Frankenmuth\n</li><li>Hagerty\n</li><li>Humana\n</li><li>Humana Medicare\n</li><li>Illinois Mutual\n</li><li>Markel First Comp\n</li><li>Markel Specialty Programs\n</li><li>Mutual of Omaha</li><li>\n</li><li>NSI - A Division of West Bend Mutual Insurance</li><li>Pioneer State Mutual\n</li><li>Priority Health\n</li><li>Progressive\n</li><li>Safeco\n</li><li>&nbsp;United Health Care\n</li><li>West Bend Mutal Insurance</li><li><span style=\"font-size: 1rem;\">&nbsp;Liberty Mutual &nbsp;&nbsp;</span></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content12-2v",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3815,12 +3815,12 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">\n</span><span style=\"font-size: 1rem;\">Barrett Insurance is committed to integrity, customer service, and education. We are here to protect your dreams. All of our agents are licensed with the State of Michigan, have a college education, and specialize in different insurance areas. We are an independent agency. This allows us to work with numerous companies and underwriters. Our advantage allows us to shop your insurance and provide the best coverage for you, your family, and your business. We are here for you.&nbsp;</span><br></p><p>Celebrating 15 years.\n</p><p>\n<span style=\"font-size: 1rem;\">Thank you,&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Cyndi Barrett</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">\n</span><span style=\"font-size: 1rem;\">Barrett Insurance is committed to integrity, customer service, and education. We are here to protect your dreams. All of our agents are licensed with the State of Michigan, have a college education, and specialize in different insurance areas. We are an independent agency. This allows us to work with numerous companies and underwriters. Our advantage allows us to shop your insurance and provide the best coverage for you, your family, and your business. We are here for you.&nbsp;</span><br></p><p>Celebrating 17 years.\n</p><p>\n<span style=\"font-size: 1rem;\">Thank you,&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Cyndi Barrett</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-2j",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -4719,7 +4719,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             }
           },
