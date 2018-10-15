@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -544,7 +544,7 @@
               "color": "#000000"
             },
             ".item-name B": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle B": {
               "color": "#000000"
