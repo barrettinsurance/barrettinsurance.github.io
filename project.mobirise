@@ -4810,7 +4810,7 @@
               "color": "#ffffff"
             },
             ".item-name B": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "features16",
@@ -4880,7 +4880,7 @@
               "color": "#ffffff"
             },
             ".item-name B": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "features16",
@@ -4952,7 +4952,7 @@
               "color": "#ffffff"
             },
             ".item-name B": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "features16",
