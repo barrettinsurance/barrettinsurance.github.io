@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Barrett Insurance - Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1319,7 +1319,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Contact",
+        "title": "Barrett Insurance - Contact",
         "order": 4
       },
       "components": [
@@ -2010,7 +2010,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "Media",
+        "title": "Barrett Insurance - Media",
         "order": 3
       },
       "components": [
@@ -2993,7 +2993,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
-        "title": "Products",
+        "title": "Barrett Insurance - Products",
         "order": 2
       },
       "components": [
@@ -3772,7 +3772,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "About Us",
+        "title": "Barrett Insurance - About Us",
         "order": 1
       },
       "components": [
@@ -4861,7 +4861,7 @@
     "page6.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "Reviews",
+        "title": "Barrett Insurance - Reviews",
         "order": 5
       },
       "components": [
