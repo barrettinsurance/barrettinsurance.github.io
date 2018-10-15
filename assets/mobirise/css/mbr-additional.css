@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.75rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.8rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.4rem;
+    font-size: calc( 1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -5005,7 +5005,7 @@ body {
   color: #ffffff;
 }
 .cid-r6htSAV2zM .item-name B {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-r6hwIouJne {
   padding-top: 0px;
@@ -5054,7 +5054,7 @@ body {
   color: #ffffff;
 }
 .cid-r6hwIouJne .item-name B {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-r6hyn0tsoM {
   padding-top: 0px;
