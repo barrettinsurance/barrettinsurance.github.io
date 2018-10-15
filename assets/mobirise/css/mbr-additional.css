@@ -1687,57 +1687,67 @@ body {
 .cid-r6ybS0673i H2 {
   color: #ffffff;
 }
-.cid-r6gzMZOeEJ {
-  padding-top: 45px;
+.cid-r6zqm0ZSqV {
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-r6gzMZOeEJ .mbr-section-subtitle {
+.cid-r6zqm0ZSqV .mbr-text,
+.cid-r6zqm0ZSqV blockquote {
   color: #767676;
 }
-.cid-r6gzMZOeEJ .media-row {
+.cid-r6zqm0ZSqV .mbr-text P {
+  text-align: center;
+  color: #000000;
+}
+.cid-r6zqaQTN6I {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r6zqaQTN6I .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r6zqaQTN6I .media-row {
   display: -webkit-flex;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-r6gzMZOeEJ .team-item {
+.cid-r6zqaQTN6I .team-item {
   transition: all .2s;
   margin-bottom: 2rem;
 }
-.cid-r6gzMZOeEJ .team-item .item-image img {
+.cid-r6zqaQTN6I .team-item .item-image img {
   width: 100%;
 }
-.cid-r6gzMZOeEJ .team-item .item-name p {
+.cid-r6zqaQTN6I .team-item .item-name p {
   margin-bottom: 0;
 }
-.cid-r6gzMZOeEJ .team-item .item-role p {
+.cid-r6zqaQTN6I .team-item .item-role p {
   margin-bottom: 0;
 }
-.cid-r6gzMZOeEJ .team-item .item-social {
+.cid-r6zqaQTN6I .team-item .item-social {
   display: -webkit-flex;
   flex-wrap: wrap;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   -webkit-justify-content: center;
 }
-.cid-r6gzMZOeEJ .team-item .item-social .socicon {
+.cid-r6zqaQTN6I .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
 }
-.cid-r6gzMZOeEJ .team-item .item-caption {
+.cid-r6zqaQTN6I .team-item .item-caption {
   background: #1ea416;
 }
-.cid-r6gzMZOeEJ .item-role P {
+.cid-r6zqaQTN6I .item-name {
   color: #ffffff;
 }
-.cid-r6gzMZOeEJ .item-name {
-  color: #000000;
-}
-.cid-r6gzMZOeEJ .item-name B {
+.cid-r6zqaQTN6I .item-role P {
   color: #ffffff;
 }
-.cid-r6gzMZOeEJ .mbr-section-subtitle B {
-  color: #000000;
+.cid-r6zqaQTN6I .item-name B {
+  color: #ffffff;
 }
 .cid-r6yc14mR1g {
   padding-top: 30px;
@@ -5143,7 +5153,7 @@ body {
   color: #ffffff;
 }
 .cid-r6zaPjp9ln .item-name B {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-r6yaNNJVY1 {
   padding-top: 30px;
