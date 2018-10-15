@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "page7.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4390,7 +4390,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">\n</span><span style=\"font-size: 1rem;\">Barrett Insurance is committed to integrity, customer service, and education. We are here to protect your dreams. All of our agents are licensed with the State of Michigan, have a college education, and specialize in different insurance areas. We are an independent agency. This allows us to work with numerous companies and underwriters. Our advantage allows us to shop your insurance and provide the best coverage for you, your family, and your business. We are here for you.&nbsp;</span><br></p><p>Celebrating 17 years.\n</p><p>\n<span style=\"font-size: 1rem;\">Thank you,&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Cyndi Barrett</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">\n</span><span style=\"font-size: 1rem;\">Barrett Insurance is committed to integrity, customer service, and education. We are here to protect your dreams. All of our agents are licensed with the State of Michigan, have a college education, and specialize in different insurance areas. We are an independent agency. This allows us to work with numerous companies and underwriters. Our advantage allows us to shop your insurance and provide the best coverage for you, your family, and your business. We are here for you.&nbsp;</span><br></p><p>Celebrating 17 years.\n</p><p>\n<span style=\"font-size: 1rem;\">Thank you,&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Cyndi Barrett</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-2j",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
