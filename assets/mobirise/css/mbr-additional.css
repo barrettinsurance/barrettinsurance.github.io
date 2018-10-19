@@ -6319,17 +6319,33 @@ body {
 .cid-r6QkF45wvP H2 {
   color: #ffffff;
 }
-.cid-r6FFv1bHXr {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-r6WmfkYl9a {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-r6FFv1bHXr .mbr-text,
-.cid-r6FFv1bHXr blockquote {
-  color: #767676;
+.cid-r6WmfkYl9a .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #000000;
 }
-.cid-r6FFv1bHXr .mbr-text P {
-  text-align: left;
+.cid-r6WmfkYl9a .mbr-author-name {
+  font-weight: bold;
+  color: #000000;
+  text-align: right;
+}
+.cid-r6WmfkYl9a .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-r6WmfkYl9a .mbr-author-desc {
+  color: #000000;
+  text-align: right;
+}
+.cid-r6WmfkYl9a .mbr-author-name SPAN {
+  color: #000000;
+}
+.cid-r6WmfkYl9a .mbr-author-desc B {
   color: #000000;
 }
 .cid-r6FFv1ETCS {
@@ -6342,7 +6358,7 @@ body {
 }
 .cid-r6ReckBYWp {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6ReckBYWp p {
@@ -6428,7 +6444,7 @@ body {
 }
 .cid-r6LMAltEPI {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6LMAltEPI p {
@@ -6514,7 +6530,7 @@ body {
 }
 .cid-r6Reeow9up {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6Reeow9up p {
@@ -6600,7 +6616,7 @@ body {
 }
 .cid-r6FHrnUaDb {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6FHrnUaDb p {
@@ -6686,7 +6702,7 @@ body {
 }
 .cid-r6FHrW2s5h {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6FHrW2s5h p {
@@ -6772,7 +6788,7 @@ body {
 }
 .cid-r6FHsC7cQ9 {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6FHsC7cQ9 p {
@@ -6858,7 +6874,7 @@ body {
 }
 .cid-r6FHt8YLaj {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6FHt8YLaj p {
@@ -6944,7 +6960,7 @@ body {
 }
 .cid-r6FHFjq7zc {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r6FHFjq7zc p {
