@@ -4102,7 +4102,8 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
             },
             ".mbr-text B": {
               "color": "#000000"
