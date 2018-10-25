@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1232,8 +1232,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/new-project36-940x480.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/new-project315-940x480.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1250,8 +1250,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/new-project35-940x480.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/new-project311-940x480.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1268,7 +1268,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/new-project34-940x480.png",
+                "image": "@PROJECT_PATH@/assets/images/new-project313-940x480.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
