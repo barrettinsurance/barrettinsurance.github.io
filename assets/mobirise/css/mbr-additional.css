@@ -4240,6 +4240,13 @@ body {
   color: #000000;
   text-align: center;
 }
+.cid-r7YQP0wH2a .mbr-section-title,
+.cid-r7YQP0wH2a .mbr-section-btn DIV {
+  text-align: left;
+}
+.cid-r7YQP0wH2a P {
+  color: #000000;
+}
 .cid-r7YFe9zPqq {
   padding-top: 15px;
   padding-bottom: 75px;
@@ -4862,22 +4869,8 @@ body {
 .cid-r6QfMoYTY9 H2 {
   color: #ffffff;
 }
-.cid-r7BFQgOQph {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-.cid-r7BFQgOQph .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
-}
-.cid-r7BFQgOQph .mbr-section-title,
-.cid-r7BFQgOQph .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
 .cid-r6FxYcMbFN {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 90px;
   position: relative;
   background-color: #ffffff;
@@ -4888,7 +4881,7 @@ body {
 .cid-r6FxYcMbFN .mbr-section-subtitle {
   color: #000000;
   font-weight: 300;
-  text-align: center;
+  text-align: left;
 }
 .cid-r6FxYcMbFN .toggle-content {
   flex-basis: 100%;
@@ -4953,6 +4946,10 @@ body {
 }
 .cid-r6FxYcMbFN .panel-text {
   color: #000000;
+}
+.cid-r6FxYcMbFN H2 {
+  color: #000000;
+  text-align: center;
 }
 .cid-r6KBxR2tYq {
   padding-top: 30px;
@@ -6918,17 +6915,25 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-r6FFvi5JZm {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-r7Z2LZdhpe {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
-.cid-r6FFvi5JZm .mbr-text,
-.cid-r6FFvi5JZm blockquote {
-  color: #767676;
+.cid-r7Z2LZdhpe .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
-.cid-r6FFvi5JZm .mbr-text P {
+.cid-r7Z2LZdhpe .mbr-section-title,
+.cid-r7Z2LZdhpe .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-r7Z2LZdhpe .mbr-section-title,
+.cid-r7Z2LZdhpe .mbr-section-btn DIV {
   text-align: left;
+}
+.cid-r7Z2LZdhpe P {
   color: #000000;
 }
 .cid-r6KB0EYB6p {
