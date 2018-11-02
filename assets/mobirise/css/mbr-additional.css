@@ -9983,6 +9983,7 @@ body {
 }
 .cid-r6hlxI09WX .mbr-text {
   color: #000000;
+  text-align: left;
 }
 .cid-r6hlxI09WX a:not([href]):not([tabindex]) {
   color: #fff;
@@ -10038,6 +10039,9 @@ body {
 }
 .cid-r6hlxI09WX B {
   color: #000000;
+}
+.cid-r6hlxI09WX H5 {
+  text-align: left;
 }
 .cid-r7v9TUfRZA {
   padding-top: 30px;
