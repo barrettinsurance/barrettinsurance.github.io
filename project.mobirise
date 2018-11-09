@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "Newsletter.html",
+    "currentPage": "newsletter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12680,7 +12680,7 @@
         }
       ]
     },
-    "Newsletter.html": {
+    "newsletter.html": {
       "settings": {
         "meta_descr": "",
         "title": "Barrett Insurance | Newsletter",
