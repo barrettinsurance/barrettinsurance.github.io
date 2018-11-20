@@ -1721,59 +1721,45 @@ body {
 .cid-r9RM74TQ7T H2 {
   color: #ffffff;
 }
-.cid-r9RMi1HWBD {
-  padding-top: 45px;
-  padding-bottom: 0px;
+.cid-r9WRHy6Kuu {
+  padding-top: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-r9RMi1HWBD .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-r9WRHy6Kuu .mbr-section-subtitle {
+  color: #767676;
 }
-@media (max-width: 992px) {
-  .cid-r9RMi1HWBD .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-r9WRHy6Kuu .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-r9RMi1HWBD .mbr-text {
-  color: #000000;
+.cid-r9WRHy6Kuu .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-r9RNd9z1b3 {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-r9WRHy6Kuu .team-item .item-image img {
+  width: 100%;
 }
-@media (min-width: 992px) {
-  .cid-r9RNd9z1b3 .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-r9WRHy6Kuu .team-item .item-name p {
+  margin-bottom: 0;
 }
-@media (max-width: 992px) {
-  .cid-r9RNd9z1b3 .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-r9WRHy6Kuu .team-item .item-role p {
+  margin-bottom: 0;
 }
-.cid-r9RNd9z1b3 .mbr-text {
-  color: #000000;
+.cid-r9WRHy6Kuu .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
 }
-.cid-r9RNdTvZsz {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-r9WRHy6Kuu .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
 }
-@media (min-width: 992px) {
-  .cid-r9RNdTvZsz .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-r9RNdTvZsz .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-r9RNdTvZsz .mbr-text {
-  color: #000000;
+.cid-r9WRHy6Kuu .team-item .item-caption {
+  background: #ffffff;
 }
 .cid-r6yc14mR1g {
   padding-top: 30px;
@@ -1785,7 +1771,7 @@ body {
 }
 .cid-r6K8GH4rH4 {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-r6K8GH4rH4 .mbr-section-subtitle {
