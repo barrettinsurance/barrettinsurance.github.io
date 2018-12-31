@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barrett Insurance",
-    "currentPage": "index.html",
+    "currentPage": "newsletter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13214,7 +13214,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>It goes without saying that keeping yourself and your family healthy through the winter in Michigan can be a challenge. When you combine chillier temps, housebound days, year-end deadlines and the holidays - not to mention kids passing around colds at school and then at home over holiday break like they’re playing “Hot Potato” - you can end up spending January under the covers.\n<div>\n</div><div>No matter how many inherent seasonal risk factors you face, there are ways to prepare for and get through the season virtually unscathed. At Barrett Insurance, we wish for you a happy and abundantly healthy new year, so here are a few tips to help you stay well and enjoy!\n</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>It goes without saying that keeping yourself and your family healthy through the winter in Michigan can be a challenge. When you combine chillier temps, housebound days, year-end deadlines and the holidays - not to mention kids passing around colds at school and then at home over holiday break like they’re playing “Hot Potato” - you can end up spending January under the covers.</p><p>\n</p><div>\n</div><div>No matter how many inherent seasonal risk factors you face, there are ways to prepare for and get through the season virtually unscathed. At Barrett Insurance, we wish for you a happy and abundantly healthy new year, so here are a few tips to help you stay well and enjoy!\n</div><div><br></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-7t",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
