@@ -8845,9 +8845,9 @@ body {
   color: #ffffff;
 }
 .cid-rjM3F0xMTW {
-  padding-top: 75px;
+  padding-top: 0px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-1920x1083.jpg");
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
   .cid-rjM3F0xMTW .mbr-figure {
@@ -8870,18 +8870,17 @@ body {
 .cid-rjM3F0xMTW H3 {
   text-align: center;
 }
-.cid-rjM4Y2xHAJ {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rjM3F0xMTW B {
+  color: #000000;
 }
-.cid-rjM4Y2xHAJ SPAN {
-  color: #ffffff;
+.cid-rjM3F0xMTW .mbr-text,
+.cid-rjM3F0xMTW .mbr-section-btn {
+  color: #000000;
 }
 .cid-rjLYRqVOa7 {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/bookcase-books-bookshelves-256541-2000x1333.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rjLYRqVOa7 .media-container-row {
   flex-direction: row-reverse;
@@ -8909,6 +8908,13 @@ body {
 }
 .cid-rjLYRqVOa7 H3 {
   text-align: center;
+}
+.cid-rjLYRqVOa7 B {
+  color: #000000;
+}
+.cid-rjLYRqVOa7 .mbr-text,
+.cid-rjLYRqVOa7 .mbr-section-btn {
+  color: #000000;
 }
 .cid-rjM2vqTtPj {
   padding-top: 0px;
