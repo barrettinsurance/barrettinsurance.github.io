@@ -46,7 +46,7 @@
     "uniqCompNum": 297,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/b-logo2-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/b-logo2-128x128-3.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-72899582-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-72899582-1');\r\n</script>",
     "html_before": "",
