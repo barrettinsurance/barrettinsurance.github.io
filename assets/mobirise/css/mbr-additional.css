@@ -9993,7 +9993,7 @@ body {
 .cid-r9j1XYj75m {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
+  background-image: url("../../../assets/images/mbr-17-1920x1280.jpg");
 }
 .cid-r9j1XYj75m B {
   color: #ffffff;
@@ -10023,7 +10023,7 @@ body {
 .cid-rjRtoMvZyM {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1281.jpg");
 }
 .cid-rNJjfEbpjM {
   padding-top: 45px;
@@ -10074,7 +10074,7 @@ body {
 .cid-rGLWqvIcYA {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-16-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-18-1920x1280.jpg");
 }
 .cid-rGLWsWOMju {
   padding-top: 0px;
@@ -10099,103 +10099,101 @@ body {
   text-align: left;
   color: #000000;
 }
-.cid-rNJjSKq6Jc {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rNJjSKq6Jc h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rNJjSKq6Jc p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rNJjSKq6Jc .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rNJjSKq6Jc .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rNJjSKq6Jc .mbr-text {
-  color: #767676;
-}
-.cid-rNJjSKq6Jc .card-wrapper {
-  height: 100%;
-  background: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-rNJjSKq6Jc .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rNJjSKq6Jc .mbr-text,
-.cid-rNJjSKq6Jc .mbr-section-btn {
-  text-align: center;
-  color: #000000;
-}
-.cid-rNJjSKq6Jc .card-title {
-  text-align: center;
-}
-.cid-rNJkAfdOuE {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rNJkAfdOuE .mbr-text,
-.cid-rNJkAfdOuE blockquote {
-  color: #767676;
-}
-.cid-rNJkAfdOuE .mbr-text B {
-  color: #000000;
-}
-.cid-rNJkAfdOuE .mbr-text {
-  color: #000000;
-  text-align: left;
-}
-.cid-rNJkAfdOuE .mbr-text DIV {
-  text-align: left;
-}
-.cid-rNJkAfdOuE .mbr-text P {
-  text-align: left;
-}
 .cid-rGLY7KMAdJ {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/12312-2000x1333.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
 }
-.cid-rGLYfK7Bp9 {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-rS7HGmrJ1L {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rS7HGmrJ1L .image-block {
+  margin: auto;
+}
+.cid-rS7HGmrJ1L figcaption {
+  position: relative;
+}
+.cid-rS7HGmrJ1L figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rS7HGmrJ1L .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rS7Hiy4gMS {
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-rGLYfK7Bp9 .mbr-text,
-.cid-rGLYfK7Bp9 blockquote {
+.cid-rS7Hiy4gMS h2 {
+  text-align: left;
+}
+.cid-rS7Hiy4gMS h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rS7Hiy4gMS p {
   color: #767676;
-}
-.cid-rGLYfK7Bp9 .mbr-text B {
-  color: #000000;
-}
-.cid-rGLYfK7Bp9 .mbr-text {
-  color: #000000;
   text-align: left;
 }
-.cid-rGLYfK7Bp9 .mbr-text DIV {
-  text-align: center;
+.cid-rS7Hiy4gMS .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
 }
-.cid-rGLYfK7Bp9 .mbr-text P {
-  text-align: left;
-  color: #000000;
+.cid-rS7Hiy4gMS .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rS7Hiy4gMS .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rS7Hiy4gMS .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rS7Hiy4gMS .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rS7Hiy4gMS .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rS7Hiy4gMS .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rS7Hiy4gMS .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rS7Hiy4gMS .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rS7Hiy4gMS .mbr-text {
+  color: #161616;
 }
 .cid-rGLYOY4Adu {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/12313-1240x620.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1277.jpg");
 }
 .cid-rGLYQfhJ8b {
   padding-top: 45px;
@@ -10220,10 +10218,37 @@ body {
   text-align: left;
   color: #000000;
 }
+.cid-rS7HXKkrrP {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-5-1920x1281.jpg");
+}
+.cid-rS7HZYy2li {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rS7HZYy2li .mbr-text,
+.cid-rS7HZYy2li blockquote {
+  color: #767676;
+}
+.cid-rS7HZYy2li .mbr-text B {
+  color: #000000;
+}
+.cid-rS7HZYy2li .mbr-text {
+  color: #000000;
+  text-align: left;
+}
+.cid-rS7HZYy2li .mbr-text DIV {
+  text-align: left;
+}
+.cid-rS7HZYy2li .mbr-text P {
+  text-align: left;
+}
 .cid-rGLZ4YErtg {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/123-720x405.png");
+  background-image: url("../../../assets/images/garlic-parmesan-dinner-rolls3-600x900.jpg");
 }
 .cid-rGLZiFynfr {
   padding-top: 0px;
@@ -10251,7 +10276,7 @@ body {
 .cid-rNJmOdH6Pf {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1-1920x1083.jpg");
+  background-image: url("../../../assets/images/mbr-19-1920x1280.jpg");
 }
 .cid-rNJn1bx0br {
   padding-top: 45px;
