@@ -6577,15 +6577,31 @@ body {
   padding-bottom: 0px;
   background-color: #1ea416;
 }
-.cid-rjXHIn9N7f {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rZlFb4sx0I {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 45px;
+}
+.cid-rZlFb4sx0I .image-block {
+  margin: auto;
+}
+.cid-rZlFb4sx0I figcaption {
+  position: relative;
+}
+.cid-rZlFb4sx0I figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rZlFb4sx0I .image-block {
+    width: 100% !important;
+  }
 }
 .cid-r7Z2LZdhpe {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/clint2-1-2000x1500.jpg");
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 .cid-r7Z2LZdhpe .mbr-section-subtitle {
   font-style: italic;
@@ -6601,13 +6617,8 @@ body {
   text-align: left;
 }
 .cid-r7Z2LZdhpe P {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
-}
-.cid-rjXHLjZElG {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
 }
 .cid-r6KB0EYB6p {
   padding-top: 30px;
