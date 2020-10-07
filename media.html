@@ -13,7 +13,6 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
@@ -80,7 +79,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/f">easy web creator</a></section><section class="mbr-section content5 cid-r6QfBGX7tp" id="content5-4b">
+<section class="engine"><a href="https://mobirise.info/r">free bootstrap template</a></section><section class="mbr-section content5 cid-r6QfBGX7tp" id="content5-4b">
 
     
 
@@ -351,15 +350,34 @@
     </div>
 </section>
 
-<section class="mbr-section mbr-section--no-padding mbr-soundcloud-container" id="soundcloud1-8e" data-rv-view="374" style="background-color: rgb(255, 255, 255); padding-top: 3rem; padding-bottom: 3rem;">
-    <div class="mbr-section__container addons-container addons-row">
-            <div class=" addons-container-inner">
-                <figure class="mbr-figure mbr-figure--wysiwyg mbr-figure--full-width mbr-figure--caption-outside-bottom">
-                    <iframe class="mbr-embedded-video" frameborder="0" allowfullscreen="" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F588920592&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"></iframe>
+<section group="Media" plugins="soundcloud-plugin" data-rv-view="554">
+
+    <mbr-parameters>
+        <header>Size</header>
+        <input type="checkbox" title="Full Screen" name="fullScreen">
+        <input type="checkbox" title="Full Width" name="fullWidth" checked="">
+        <input type="range" inline="" title="Top" name="paddingTop" min="0" max="10" step="1" value="0" condition="fullScreen == false">
+        <input type="range" inline="" title="Bottom" name="paddingBottom" min="0" max="10" step="1" value="0" condition="fullScreen == false">
+        <input type="range" inline="" name="scWidth" title="Player Width" min="4" max="12" value="12" step="1">
+        <header>Show/Hide</header>
+        <input type="checkbox" title="Title" name="showTitle">
+        <input type="checkbox" title="Autoplay" name="autoplay">
+        <input type="text" title="Track ID" name="trackId" value="234652184">
+        <input type="color" title="Bg Color" name="bgColor" value="#fafafa">
+    </mbr-parameters>
+
+    <div>
+        
+        <div class="row justify-content-center">
+            <div class="col-lg-{{scWidth}}">
+                <figure class="mobirise-loader mbr-figure mbr-figure--wysiwyg mbr-figure--full-width mbr-figure--caption-outside-bottom">
+                    <iframe class="mbr-embedded-video" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{trackId}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="0" allowfullscreen=""></iframe>
                 </figure>
             </div>
-        <div class="clearfix"></div>
+        </div>
+
     </div>
+    <div class="clearfix"></div>
 </section>
 
 <section once="" class="cid-r6KBd9b6UY" id="footer6-5l">
