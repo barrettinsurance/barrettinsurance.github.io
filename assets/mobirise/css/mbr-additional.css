@@ -6585,24 +6585,24 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/bookcase-books-bookshelves-256541-2000x1333.jpg");
 }
-.cid-sMnCnPbzI9 {
+.cid-sR63dSnRmQ {
   background: #ffffff;
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 30px;
 }
-.cid-sMnCnPbzI9 .image-block {
+.cid-sR63dSnRmQ .image-block {
   margin: auto;
 }
-.cid-sMnCnPbzI9 figcaption {
+.cid-sR63dSnRmQ figcaption {
   position: relative;
 }
-.cid-sMnCnPbzI9 figcaption div {
+.cid-sR63dSnRmQ figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-sMnCnPbzI9 .image-block {
+  .cid-sR63dSnRmQ .image-block {
     width: 100% !important;
   }
 }
