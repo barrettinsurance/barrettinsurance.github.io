@@ -7813,46 +7813,6 @@
           "_params": {}
         },
         {
-          "alias": false,
-          "_styles": {
-            "background": "@bgColor",
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @color2, @bgColor)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "figcaption": {
-              "position": "relative",
-              "div": {
-                "position": "absolute",
-                "bottom": "0",
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".image-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "image3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"35\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/brayden-taylor-wca-canva-1080x1080.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
-          "_cid": "sR63dSnRmQ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "image3-ca"
-        },
-        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -7875,7 +7835,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Congratulations to this week’s Barrett Insurance Student of the Week Award of Excellence recipient, Brayden Taylor!\n<span style=\"font-size: 1.1rem;\"></span></p><p>Brayden is in the 8th grade at Will Carleton Academy where he is a member of the Basketball, Baseball, and Football teams. He is also active volunteering in the community.\n</p><p>\n<span style=\"font-size: 1.1rem;\">According to Mrs. Tina Watkins, “Brayden has had a great start to the school year! He has worked diligently, in the classroom and while absent, to complete all assignments. He has had a great attitude and has proven to be a responsible student entrusted with tasks outside of the classroom. I am so proud of the growth and maturity I have seen in Brayden from 7th grade to 8th grade.”&nbsp;</span></p><p>\n<span style=\"font-size: 1.1rem;\">After high school, Brayden plans to attend college to study technology.&nbsp;</span></p><p>\n<span style=\"font-size: 1.1rem;\">Congratulations, Brayden! Keep up your great work.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Congratulations to this week’s Barrett Insurance Student of the Week Award of Excellence recipient, Brayden Taylor!\n<span style=\"font-size: 1.1rem;\"></span></p><p>Brayden is in the 8th grade at Will Carleton Academy where he is a member of the Basketball, Baseball, and Football teams. He is also active volunteering in the community.\n</p><p>\n<span style=\"font-size: 1.1rem;\">According to Mrs. Tina Watkins, “Brayden has had a great start to the school year! He has worked diligently, in the classroom and while absent, to complete all assignments. He has had a great attitude and has proven to be a responsible student entrusted with tasks outside of the classroom. I am so proud of the growth and maturity I have seen in Brayden from 7th grade to 8th grade.”&nbsp;</span></p><p>\n<span style=\"font-size: 1.1rem;\">After high school, Brayden plans to attend college to study technology.&nbsp;</span></p><p>\n<span style=\"font-size: 1.1rem;\">Congratulations, Brayden! Keep up your great work.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-c4",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
